@@ -2,7 +2,7 @@
 
 <h1 align="center"> Bem-Vindo ao meu perfil 👋</h1>
 
-<h3 align="center">- 🤖 Dev. Full-Stack  Junior  Jr</h3>
+<h3 align="center">- 🤖 Dev. Full-Stack Junior</h3>
 
 <h3 align="center">- 😄 Pronomes: Ele/Dele</h3>
 
