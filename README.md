@@ -6,6 +6,8 @@
 
 <h3 align="center">- 😄 Pronomes: Ele/Dele</h3>
 
+<h3 align="center">- 🌱 I’m currently learning React Native and Angular
+
 <h3 align="center">- ⚡ Fun fact: The Legend of Zelda: Ocarina of Time é o melhor jogo já feito 🏹🗡</h3>
 
 
