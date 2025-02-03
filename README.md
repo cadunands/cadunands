@@ -2,11 +2,11 @@
 
 <h1 align="center"> Bem-Vindo ao meu perfil 👋</h1>
 
-<h3 align="center">- 🤖 Front-End Dev JR. </h3>
+<h3 align="center">- 🤖 Softwere Developer </h3>
 
 <h3 align="center">- 😄 Pronomes: Ele/Dele</h3>
 
-<h3 align="center">- 🌱 I’m currently learning React Native and Angular
+<h3 align="center">- 🌱 I’m currently learning React Native, AWS and Java
 
 <h3 align="center">- ⚡ Fun fact: The Legend of Zelda: Ocarina of Time is the best game ever made 🏹🗡</h3>
 
